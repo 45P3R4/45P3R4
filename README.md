@@ -1,5 +1,8 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=45P3R4&theme=rose_pine)](https://github.com/45P3R4)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=45P3R4&theme=rose_pine)](https://github.com/45P3R4)
+<!--![Jokes Card](https://readme-jokes.vercel.app/api)-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=45P3R4&theme=rose_pine&card_width=420)](https://github.com/45P3R4)
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=45P3R4&theme=rose_pine&card_width=420)](https://github.com/45P3R4)
 
 
 
