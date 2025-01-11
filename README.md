@@ -1,4 +1,4 @@
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=45P3R4&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=45P3R4)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **45P3R4/45P3R4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
