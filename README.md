@@ -1,4 +1,10 @@
-## Hi there 👋
+<!--![Jokes Card](https://readme-jokes.vercel.app/api)-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=45P3R4&theme=rose_pine&card_width=420)](https://github.com/45P3R4)
+<br>
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=45P3R4&theme=rose_pine&card_width=420)](https://github.com/45P3R4)-->
+
+
 
 <!--
 **45P3R4/45P3R4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
