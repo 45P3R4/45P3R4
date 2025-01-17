@@ -1,5 +1,7 @@
 <!--![Jokes Card](https://readme-jokes.vercel.app/api)-->
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=45P3R4&theme=rose_pine&card_width=420)](https://github.com/45P3R4)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=45P3R4&theme=rose_pine&card_width=420)](https://github.com/45P3R4)
 <br>
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=45P3R4&theme=rose_pine&card_width=420)](https://github.com/45P3R4)-->
