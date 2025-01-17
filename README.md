@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&size=22&duration=2000&pause=0000&color=2FF71A&vCenter=true&multiline=true&repeat=false&width=520&height=200&lines=NAME%3A+45P3R4;CLASS%3A+DEVELOPER;SKILLS%3A;-+GAMEDEV;-+FRONTEND)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&size=22&duration=2000&pause=0000&color=2FF71A&vCenter=true&multiline=true&width=520&height=200&lines=NAME%3A+45P3R4;CLASS%3A+DEVELOPER;SKILLS%3A;-+GAMEDEV;-+FRONTEND)](https://git.io/typing-svg)
 
 <!--![Jokes Card](https://readme-jokes.vercel.app/api)-->
 
