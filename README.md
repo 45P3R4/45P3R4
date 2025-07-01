@@ -1,4 +1,4 @@
-Currently learning modern OpenGL 3.3 core
+Currently learning golang backend development
 
 
 <!--
